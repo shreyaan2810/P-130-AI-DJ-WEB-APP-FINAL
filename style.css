@@ -1,0 +1,54 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 19px;
+    border-color: black;
+    border-radius: 10px;
+    box-shadow: 8px 4px rgb(208, 127, 21);
+    border-width: 2px;
+}
+
+.note{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#song_name{
+    font-size: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bolder;
+    box-shadow: 5px 5px rgb(255, 122, 28);
+    }
+
+#position{
+    float: left;
+    font-size: 22px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bolder;
+    box-shadow: 5px 5px rgb(255, 122, 28);
+    white-space: pre-line;
+}
+
+    canvas{
+        border: 5px;
+        box-shadow: 5px 8px rgb(95, 94, 94);
+        border-radius: 15px;
+        margin-top: 200px;
+        }
+
+        .copy_right_footer
+        {
+            position: fixed;
+            bottom: 0px;
+            color:black;
+            background-color: rgb(228, 245, 82);
+            line-height: 3;
+            text-align: center;
+            width: 100%;
+        }
+
+
